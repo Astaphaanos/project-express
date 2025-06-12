@@ -1,5 +1,7 @@
 ## 📂 Projeto de Roteamento com Express.js
-Este projeto demonstra um servidor Node.js usando Express.js para roteamento básico, servindo páginas HTML estáticas com rotas dinâmicas.
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
+![Express](https://img.shields.io/badge/Express-4.x-lightgrey)
+- Este projeto demonstra um servidor Node.js usando Express.js para roteamento básico, servindo páginas HTML estáticas com rotas dinâmicas.
 
 ## 🚀 Funcionalidades
 - **Rota principal** (/): Retorna a página home.html.
